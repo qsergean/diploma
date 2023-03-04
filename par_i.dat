@@ -1,0 +1,24 @@
+106  31
+ 700000.
+ 10000000  19000  0
+ 0.1  9.36e5
+ 0.   0
+ 0.25
+ 0
+ 1
+ 0
+
+
+
+
+ fscanf(fpr,"%d %d",&IT,&JT);
+ fscanf(fpr,"%lg",&t_max);
+ fscanf(fpr,"%d %d %d",&max_stp,&nout,&inp_par);
+ fscanf(fpr,"%lg %lg",&Mach,&Re_ref);
+ fscanf(fpr,"%lg %d",&coord,&Flag_turb);
+ fscanf(fpr,"%lg",&H_Z);
+ fscanf(fpr,"%d",&i_qgd);
+ fscanf(fpr,"%d",&i_appr);
+ fscanf(fpr,"%d",&i_Rey);
+
+
